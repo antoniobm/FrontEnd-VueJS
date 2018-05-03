@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-
+// API axios management
 export default {
     request(method, uri, data = undefined, headers = undefined) {
 
